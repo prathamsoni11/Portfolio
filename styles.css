@@ -102,9 +102,9 @@ h6 {
 }
 .skill-card {
   background-color: rgb(255, 195, 0);
-  border-radius: 20px;
-  padding: 10px;
-  margin: 10px;
+  border-radius: 16px;
+  padding: 8px;
+  margin: 8px;
 }
 
 /* Get In Touch */
