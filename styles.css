@@ -29,10 +29,12 @@ h6 {
 /* Home */
 .profile-picture {
   border-radius: 100%;
+  width: 200px;
   height: 200px;
   box-shadow: 0 4px 32px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   display: block;
   margin: 0px auto 30px;
+  object-fit: cover;
 }
 .Typewriter {
   color: rgb(0, 53, 102);
